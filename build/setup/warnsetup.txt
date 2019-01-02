@@ -1,0 +1,38 @@
+missing module named resource - imported by posix, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named posix - imported by os, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named org - imported by pickle, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named _winreg - imported by platform, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named 'java.lang' - imported by platform, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named termios - imported by tty, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py, getpass
+missing module named grp - imported by shutil, tarfile, pathlib, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, pathlib, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py
+missing module named 'org.python' - imported by copy, C:\Users\Ferdinand\Desktop\Scripts\Python\PyCharmProjects\RegTracker\main.py, xml.sax
+missing module named cffi - imported by PIL.Image, PIL.PyAccess, PIL.ImageTk
+missing module named Tkinter - imported by TkTreectrl.Treectrl, TkTreectrl.ScrolledTreectrl, PIL.ImageTk
+missing module named UserDict - imported by PIL.PdfParser
+missing module named olefile - imported by PIL.MicImagePlugin, PIL.FpxImagePlugin
+missing module named 'PySide.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt4.QtGui' - imported by PIL.ImageQt
+missing module named 'PySide2.QtCore' - imported by PIL.ImageQt
+missing module named PySide2 - imported by PIL.ImageQt
+missing module named 'PyQt5.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt5.QtGui' - imported by PIL.ImageQt
+missing module named numpy - imported by PIL.ImageFilter
+missing module named pathlib2 - imported by PIL.Image
+missing module named __builtin__ - imported by PIL.Image
+missing module named AppKit - imported by pyperclip
+missing module named Foundation - imported by pyperclip
+missing module named PyQt4 - imported by pyperclip
+missing module named PyQt5 - imported by pyperclip
+missing module named qtpy - imported by pyperclip
+missing module named gtk - imported by pyperclip
+missing module named ttk - imported by TkTreectrl.ScrolledTreectrl
